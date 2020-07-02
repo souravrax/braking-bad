@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/braking-bad/static/css/main.92bb1c56.chunk.css",
+    "main.js": "/braking-bad/static/js/main.517f1be3.chunk.js",
+    "main.js.map": "/braking-bad/static/js/main.517f1be3.chunk.js.map",
+    "runtime-main.js": "/braking-bad/static/js/runtime-main.dddea2c8.js",
+    "runtime-main.js.map": "/braking-bad/static/js/runtime-main.dddea2c8.js.map",
+    "static/js/2.8acc9afd.chunk.js": "/braking-bad/static/js/2.8acc9afd.chunk.js",
+    "static/js/2.8acc9afd.chunk.js.map": "/braking-bad/static/js/2.8acc9afd.chunk.js.map",
+    "index.html": "/braking-bad/index.html",
+    "precache-manifest.d61f10026ae521b6803fe75afc9ee5f6.js": "/braking-bad/precache-manifest.d61f10026ae521b6803fe75afc9ee5f6.js",
+    "service-worker.js": "/braking-bad/service-worker.js",
+    "static/css/main.92bb1c56.chunk.css.map": "/braking-bad/static/css/main.92bb1c56.chunk.css.map",
+    "static/js/2.8acc9afd.chunk.js.LICENSE.txt": "/braking-bad/static/js/2.8acc9afd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dddea2c8.js",
+    "static/js/2.8acc9afd.chunk.js",
+    "static/css/main.92bb1c56.chunk.css",
+    "static/js/main.517f1be3.chunk.js"
+  ]
+}
